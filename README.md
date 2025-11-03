@@ -4,12 +4,12 @@ In 2016 I decided to offer a free email course on Security. Technology at the ti
 <br><br>
 The course consisted of nine chapters/sections:
 <br> 
-Security introduction
-Passwords
-Email
-PGP
-Browsers
-Mobile
-Free WiFi
-VPN
-Encryption
+* Security introduction<br>
+* Passwords<br>
+* Email <br>
+* PGP <br>
+* Browsers <br>
+* Mobile <br>
+* Free WiFi <br>
+* VPN <br>
+* Encryption
